@@ -4,20 +4,34 @@
 
 Brasília, Brazil
 
-I design and build distributed systems end to end — service boundaries, event-driven
-communication, and the delivery pipeline that gets them into production safely. My focus is
-backend architecture in Java/Spring, with the surrounding Kubernetes/GitOps tooling that makes a
-microservices system operable rather than just runnable.
+20+ years designing, building, and scaling mission-critical systems across public sector,
+financial services, healthcare, life sciences, and enterprise environments — backend architecture
+in Java (Spring Boot, Quarkus) and PHP (Laravel, Lumen), distributed systems, cloud
+infrastructure, and the CI/CD/GitOps pipelines that get them into production safely.
 
-## Focus areas
+## Experience highlights
 
-- Microservices architecture and distributed-systems patterns — sagas, CQRS, circuit breakers,
-  outbox, event-driven design
-- Java / Spring Boot, Kafka
-- Kubernetes, GitOps (ArgoCD), Docker
-- Identity and access management — Keycloak, OAuth2/OIDC
-- Technical leadership — architecture decisions grounded in *why* a pattern is needed, not just
-  how to wire it up
+- **ACTO** (Life Sciences, remote) — improved queue-processing efficiency by 30% on a Vue.js +
+  Laravel platform serving global pharmaceutical clients; drove adoption of PHP engineering
+  best practices and hardened application security across the stack.
+- **Cast Group** (Enterprise Architect & Tech Lead) — led the modernization of monolithic legacy
+  systems into microservices (Java/Spring Boot, Quarkus, PHP/Laravel) for public-sector clients
+  including Banco do Brasil, ANATEL, MEC, and DATASUS; cut deployment time 40% at Banco do Brasil
+  by building CI/CD pipelines across GitLab, Jenkins, ArgoCD, and Kubernetes; migrated ANATEL's
+  national spectrum-pricing system to microservices with Keycloak-based SSO.
+- 20 years of full-stack and architecture work spanning federal government, healthcare, and
+  education systems, including national student-attendance and blood-donation platforms.
+
+## Technical skills
+
+- **Backend**: Java, Spring Boot, Quarkus, PHP, Laravel, Lumen, Zend Framework
+- **Frontend**: TypeScript, Vue.js, React, Angular
+- **Architecture**: Microservices, distributed systems, Clean Architecture, Domain-Driven Design,
+  design patterns, API design, system modernization
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD, Jenkins, GitLab CI, ArgoCD, GitHub Actions
+- **Messaging & distributed processing**: Apache Kafka, RabbitMQ, Apache Spark, Apache Hadoop
+- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, SQL Server
+- **Security & quality**: Keycloak, SSO, OAuth 2.0, SonarQube, automated testing, JMeter, Selenium
 
 ## Featured work
 
